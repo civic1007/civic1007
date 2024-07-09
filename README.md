@@ -1,6 +1,6 @@
 ## my github profile
 
-[![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=civic1007&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=<1258033419443503124>)
@@ -28,9 +28,6 @@
 ## ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p align="center">
-<img src="https://github.com/civic1007/civic1007/image1.png"> <img src="https://github.com/civic1007/civic1007/image2.png">
-</p>
 
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
