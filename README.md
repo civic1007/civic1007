@@ -3,7 +3,7 @@
 [![Profile Visit Count](https://visitcount.itsvg.in/api?id=RadioactivePotato&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![civic's discord](https://discord-readme-badge.vercel.app/api?id=1166013268008120340)](https://discordapp.com/users/1258033419443503124)
+[![civic's discord](https://discord-readme-badge.vercel.app/api?id=1260279206252904558)](https://discordapp.com/users/1258033419443503124)
 
 ***
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com)
